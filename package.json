@@ -1,10 +1,10 @@
 {
   "name": "chatter-nest-telegrambot",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Firebase Nest Telegram Chatter Bot",
+  "author": "Viktor Uvarchev",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
