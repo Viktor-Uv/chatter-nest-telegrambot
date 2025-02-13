@@ -1,0 +1,10 @@
+{
+  "name": "chatter-nest-telegrambot",
+  "description": "Firebase Nest Telegram Chatter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Uvarchev",
+  "license": "MIT"
+}
