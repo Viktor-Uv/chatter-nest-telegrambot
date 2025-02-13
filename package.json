@@ -1,0 +1,9 @@
+{
+  "name": "chatter-nest-telegrambot",
+  "description": "Firebase Nest Telegram Chatter Bot",
+  "author": "Viktor Uvarchev",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^13.23.1"
+  }
+}

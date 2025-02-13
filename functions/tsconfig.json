@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2023",
+    "baseUrl": "./",
+    "paths": {
+      "controllers/*": ["src/controllers/*"],
+      "domain/*": ["src/domain/*"],
+      "middleware/*": ["src/middleware/*"],
+      "shared/*": ["src/shared/*"]
+    },
+    "verbatimModuleSyntax": true
+  },
+  "compileOnSave": true,
+  "include": ["./**/*", "./**/*.json"],
+  "tsc-alias": {
+    "resolveFullPaths": true,
+    "verbose": false
+  }
+}
